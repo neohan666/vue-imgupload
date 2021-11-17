@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "element-plus": "^1.0.2-beta.70",
+    "vue": "^3.2.3",
+    "vuedraggable": "^4.1.0"
+  }
+}

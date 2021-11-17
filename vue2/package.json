@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "lrz": "^4.9.40",
+    "vuedraggable": "^2.23.2",
+    "vue": "2.6.10"
+  }
+}
